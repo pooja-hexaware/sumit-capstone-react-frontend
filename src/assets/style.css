@@ -1,0 +1,19 @@
+.top-card {
+  margin-top: 100px;
+}
+
+.menu-card {
+  margin-top: 30px;
+}
+
+.btn-color {
+  background-color: #1c30a3 !important;
+}
+
+.f-small {
+  font-size: small !important;
+}
+
+.b-left {
+  border-left: 1px solid lightgray;
+}
